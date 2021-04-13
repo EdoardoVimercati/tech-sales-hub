@@ -1,12 +1,12 @@
 ---
-title: Jekyll Serif Theme
+title: Tech Sales Hub
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
-intro_image: "images/illustrations/pointing.svg"
+description: A structured approach to get your first offer from one of the fastest and highest-paying sector, Tech Sales.
+intro_image: "images/illustrations/researching.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# Enter Tech Sales.
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+A structured approach to get your first offer from one of the fastest growing and highest paying sector, Tech Sales.

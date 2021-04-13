@@ -1,17 +1,17 @@
 [
   {
     "title": "Free Consultation",
-    "description": "New clients receive an obligation free consultation.",
+    "description": "New clients receive a 15 min free consultation.",
     "image": "images/features/noun_branding_1885335.svg"
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Proven process",
+    "description": "All members of our team have years of experience in the Tech Sector.",
     "image": "images/features/noun_The Process_1885341.svg"
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Constant networking",
+    "description": "We stay up to date on the latest changes to the interview process thanks to our  network.",
     "image": "images/features/noun_3d modeling_1885342.svg"
   }
 ]

@@ -1,6 +1,6 @@
 baseurl: '/'
 permalink: pretty
-title: 'Jekyll Serif'
+title: 'Tech Sales Hub'
 
 google_analytics_id: ""
 
@@ -8,9 +8,9 @@ homepage:
   show_call_box: true
 
 logo:
-  mobile: "images/logo/logo-mobile.svg"
-  desktop: "images/logo/logo.svg"
-  desktop_height: "36px"
+  mobile: "images/logo/logo.png"
+  desktop: "images/logo/logo.png"
+  desktop_height: "120px"
 
 footer:
   copyright_text: 'Free Jekyll theme by <a class="zerostatic" href="https://www.zerostatic.io">www.zerostatic.io</a>'
